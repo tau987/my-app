@@ -27,7 +27,7 @@ function Upload() {
   return (
 <div className="container">
   <h2>Chatbot: Your Chatbot Name</h2>
-  <h3>hello</h3>
+ 
   
   <div className="upload-section">
     <h3>Upload Files</h3>
