@@ -11,7 +11,7 @@ function Upload() {
 
   const handleUpload = () => {
     if (!selectedFile) {
-      alert("Please select a file to upload.");
+      alert("Please  a file to upload.");
       return;
     }
 
